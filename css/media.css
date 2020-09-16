@@ -35,15 +35,15 @@
       opacity: 0.9;
    }
    .nav-links.open {
-      clip-path: circle(1000px at 90% -20%);
-      -webkit-clip-path: circle(1000px at 90% -20%);
+      clip-path: circle(1100px at 90% -20%);
+      -webkit-clip-path: circle(1100px at 90% -20%);
       pointer-events: all;
    }
    .landing {
       flex-direction: column;
    }
    .landing h1 {
-      width: 60%;
+      width: 90%;
    }
    .nav-links li {
       opacity: 0;
